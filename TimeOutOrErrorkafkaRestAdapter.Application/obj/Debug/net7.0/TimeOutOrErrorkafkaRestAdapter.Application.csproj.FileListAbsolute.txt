@@ -1,0 +1,12 @@
+C:\Users\a895576\OneDrive - Atos\DSS-POC\TimeOutOrErrorkafkaRestAdapter\TimeOutOrErrorkafkaRestAdapter.Application\obj\Debug\net7.0\TimeOutOrErrorkafkaRestAdapter.Application.csproj.AssemblyReference.cache
+C:\Users\a895576\OneDrive - Atos\DSS-POC\TimeOutOrErrorkafkaRestAdapter\TimeOutOrErrorkafkaRestAdapter.Application\obj\Debug\net7.0\TimeOutOrErrorkafkaRestAdapter.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a895576\OneDrive - Atos\DSS-POC\TimeOutOrErrorkafkaRestAdapter\TimeOutOrErrorkafkaRestAdapter.Application\obj\Debug\net7.0\TimeOutOrErrorkafkaRestAdapter.Application.AssemblyInfoInputs.cache
+C:\Users\a895576\OneDrive - Atos\DSS-POC\TimeOutOrErrorkafkaRestAdapter\TimeOutOrErrorkafkaRestAdapter.Application\obj\Debug\net7.0\TimeOutOrErrorkafkaRestAdapter.Application.AssemblyInfo.cs
+C:\Users\a895576\OneDrive - Atos\DSS-POC\TimeOutOrErrorkafkaRestAdapter\TimeOutOrErrorkafkaRestAdapter.Application\obj\Debug\net7.0\TimeOutOrErrorkafkaRestAdapter.Application.csproj.CoreCompileInputs.cache
+C:\Users\a895576\OneDrive - Atos\DSS-POC\TimeOutOrErrorkafkaRestAdapter\TimeOutOrErrorkafkaRestAdapter.Application\bin\Debug\net7.0\TimeOutOrErrorkafkaRestAdapter.Application.deps.json
+C:\Users\a895576\OneDrive - Atos\DSS-POC\TimeOutOrErrorkafkaRestAdapter\TimeOutOrErrorkafkaRestAdapter.Application\bin\Debug\net7.0\TimeOutOrErrorkafkaRestAdapter.Application.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\TimeOutOrErrorkafkaRestAdapter\TimeOutOrErrorkafkaRestAdapter.Application\bin\Debug\net7.0\TimeOutOrErrorkafkaRestAdapter.Application.pdb
+C:\Users\a895576\OneDrive - Atos\DSS-POC\TimeOutOrErrorkafkaRestAdapter\TimeOutOrErrorkafkaRestAdapter.Application\obj\Debug\net7.0\TimeOutOrErrorkafkaRestAdapter.Application.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\TimeOutOrErrorkafkaRestAdapter\TimeOutOrErrorkafkaRestAdapter.Application\obj\Debug\net7.0\refint\TimeOutOrErrorkafkaRestAdapter.Application.dll
+C:\Users\a895576\OneDrive - Atos\DSS-POC\TimeOutOrErrorkafkaRestAdapter\TimeOutOrErrorkafkaRestAdapter.Application\obj\Debug\net7.0\TimeOutOrErrorkafkaRestAdapter.Application.pdb
+C:\Users\a895576\OneDrive - Atos\DSS-POC\TimeOutOrErrorkafkaRestAdapter\TimeOutOrErrorkafkaRestAdapter.Application\obj\Debug\net7.0\ref\TimeOutOrErrorkafkaRestAdapter.Application.dll

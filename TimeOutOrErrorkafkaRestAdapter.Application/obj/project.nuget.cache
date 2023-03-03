@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "d+sbjhqU8mfTQZBS+bhVhB70aZMIDcXkexKFVjTX1FRsArvuV9c0lRTk/ed12e9Ql/dsLpxVa4dkzo9Bk8812w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a895576\\OneDrive - Atos\\DSS-POC\\TimeOutOrErrorkafkaRestAdapter\\TimeOutOrErrorkafkaRestAdapter.Application\\TimeOutOrErrorkafkaRestAdapter.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a895576\\.nuget\\packages\\confluent.kafka\\2.0.2\\confluent.kafka.2.0.2.nupkg.sha512",
+    "C:\\Users\\a895576\\.nuget\\packages\\librdkafka.redist\\2.0.2\\librdkafka.redist.2.0.2.nupkg.sha512",
+    "C:\\Users\\a895576\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\a895576\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\a895576\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
